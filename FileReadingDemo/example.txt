@@ -1,0 +1,8 @@
+This is a sample file.
+It contains multiple lines
+to demonstrate how to read
+files in C# efficiently.
+
+Line 5: This could be user input.
+Line 6: This could be log data.
+Line 7: Or just plain text.
